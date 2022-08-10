@@ -7,6 +7,6 @@ I built this project because I wanted to learn and practice object detection and
 I learned Hand Pose Detection and Tracking with Mediapipe on Youtube. I learned how to control the webcam and detect objects with Python from a course called "The Python Mega Course: Build 10 Real World Applications" on Udemy.
 
 ## Run the project
-Run 'donutTesting.py' file.
+Run `donutTesting.py` file.
 Use python 3.9 to run Mediapipe.
 In the requirements.txt, add at the end: protobuf==3.20.x.
